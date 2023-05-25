@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Galytix.Api", "Galytix.Api\Galytix.Api.csproj", "{74D36163-A28A-4B9A-B226-A1F3384FE91C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Galytix.Api.UnitTests", "Galytix.Api.UnitTests\Galytix.Api.UnitTests.csproj", "{B9EFD86B-332C-46AB-B997-6878818E4614}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{74D36163-A28A-4B9A-B226-A1F3384FE91C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{74D36163-A28A-4B9A-B226-A1F3384FE91C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{74D36163-A28A-4B9A-B226-A1F3384FE91C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{74D36163-A28A-4B9A-B226-A1F3384FE91C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B9EFD86B-332C-46AB-B997-6878818E4614}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B9EFD86B-332C-46AB-B997-6878818E4614}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B9EFD86B-332C-46AB-B997-6878818E4614}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B9EFD86B-332C-46AB-B997-6878818E4614}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
