@@ -1,1 +1,1 @@
-# Galytix
+# Galytix.Api
