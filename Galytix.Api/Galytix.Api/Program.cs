@@ -34,13 +34,6 @@ builder.Services.AddSingleton(context);
 builder.Services.AddSingleton<ISerializationService, SerializationService>();
 builder.Services.AddSingleton<IGwpDataRepository, GwpDataRepository>();
 builder.Services.AddSingleton<IGwpDataService, GwpDataService>();
-// builder.Services.AddSingleton<IGwpDataContext, GwpDataContext>();
-// builder.Services.AddSingleton<IDataImportService, DataImportService>();
-//
-// builder.Services
-//     .BuildServiceProvider()
-//     .GetService<IDataImportService>()?
-//     .Import();
 
 // Add mapping profiles
 var mapperConfig = new MapperConfiguration(mc =>
